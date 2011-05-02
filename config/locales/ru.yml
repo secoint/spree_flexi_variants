@@ -1,0 +1,43 @@
+---
+ru:
+  required: "Обязательно?"
+  price_modifier: "Корректировка цены"
+  price_modifier_type: "Какую стратегию изменения цены использует эта опция?"
+  add_option_values: "Добавить значения опции"
+  edit_option_values: "Редактировать значения опции"
+  notice_messages:
+    option_value_removed: "Значение опции удалено"
+    product_customization_type_removed: "Тип модификации товара удален"
+    ad_hoc_variant_exclusion_removed: "Исключение удалено"
+  ad_hoc_variant_exclusion: 'Исключение специального варианта'
+  ad_hoc_variant_exclusions: 'Исключения специального варианта'
+  product_customization_types: 'Типы модификации'
+  product_customization_type: 'Тип модификации товара'
+  customizable_product_options: 'Настраиваемые опции'
+  new_product_customization_type: 'Новый тип модификации товара'
+  new_customizable_product_option: 'Новая настраиваемая опция'
+  new_ad_hoc_variant_exclusion: 'Новое ислючение'
+  add_product_customization_type: 'Добавить тип модификации товара'
+  add_product_customization_types: 'Добавить типы модификации товара'
+  add_customizable_product_option: 'Добавить настраиваемую опцию'
+  editing_product_customization_type: 'Редактирование типа модификации товара'
+  form_label: 'HTML Form Label'
+  data_type: 'Тип данных (для проверки ввода)'
+  default_value: 'Значение по умолчанию'
+  ad_hoc_option_types: 'Специальные товарные опции'
+  ad_hoc_option_type: 'Специальная товарная опция'
+  partial: 'Заменяет шаблон, используемый по умолчанию'
+  price_per_letter: 'Цена за букву'
+  min_length: 'Мин. длина'
+  multiplier: 'Множитель'
+  max_length: 'Макс. длина'
+  max_width: 'Макс. ширина'
+  min_height: 'Мин. высота'
+  max_height: 'Макс. высота'
+  min_width: 'Мин. ширина'
+  min_area: 'Мин. площадь'
+  min_amount: 'Мин. количество'
+  max_amount: 'Макс. количество'
+  min_pricing_area: 'Мин. площадь (может иметь меньшую площадь, но будет стоить как указанная)'
+  not_all_combinations_available: 'Имейте ввиду, что не все комбинации опций доступны'
+  select_variant_options: 'Опции'
