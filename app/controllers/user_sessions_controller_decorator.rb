@@ -10,7 +10,7 @@ UserSessionsController.class_eval do
     if order
       if guest_order
         guest_order.line_items.each do |li|
-          order.add_variant(li.variant, li.ad_hoc_option_values,
+          order.add_variant(li.variant, li.ad_hoc_option_values.map(&:id),
                             li.product_customizations, li.quantity)
         end
         
